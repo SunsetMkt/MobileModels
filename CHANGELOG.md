@@ -1,4 +1,8 @@
 # 更新日志
+## 2024-08-09
+- `coolpad` 新增 酷派 Y70 Lite。
+## 2024-08-07
+- `zte` 新增 中兴 V80。
 ## 2024-08-06
 - `huawei_cn` 新增 HUAWEI MatePad Pro 12.2, MatePad Air 12。
 - `xiaomi` 新增 Redmi Pad SE 8.7。
